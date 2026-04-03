@@ -71,7 +71,7 @@ Bash
 download
 content_copy
 expand_less
-git clone https://github.com/YOUR_USERNAME/jeddah-real-estate-ai.git
+git clone https://github.com/BaqarW-tech/jeddah-real-estate-ai.git
 
 Install dependencies:
 
